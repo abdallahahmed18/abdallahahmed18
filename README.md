@@ -1,5 +1,4 @@
 ### Hi there 👋
-<!--
 **abdallahahmed18/abdallahahmed18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter(https://twitter.com/Abdalla_abdash)]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Transport of goods by land is SHIPMENT while transport of goods by sea is called CARGO.....get it?😂😂😂
--->
+
